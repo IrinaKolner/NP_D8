@@ -20,10 +20,15 @@
 
 
 Ссылки с прошлого модуля для проверки
+
 http://127.0.0.1:8000/posts/news/create/ 
+
 http://127.0.0.1:8000/posts/news/<номер>/edit/
+
 http://127.0.0.1:8000/posts/news/<номер>/delete/
 
 http://127.0.0.1:8000/posts/article/create/
+
 http://127.0.0.1:8000/posts/article/<номер>/edit/
+
 http://127.0.0.1:8000/posts/article/<номер>/delete/
